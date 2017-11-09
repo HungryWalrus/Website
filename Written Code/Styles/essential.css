@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/Fonts/bebasneue_regular-webfont.woff2') format('woff2'),
-         url('/Fonts/bebasneue_regular-webfont.woff') format('woff');
+    src: url('/Fonts/bebasneue_bold-webfont.woff2') format('woff2'),
+         url('/Fonts/bebasneue_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -456,7 +456,7 @@
     text-align:left;
     padding-top:20px;
     box-sizing: border-box;
-    
+
 }
 
 .active-accordion {
