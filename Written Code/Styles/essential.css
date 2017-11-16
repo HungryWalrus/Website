@@ -519,7 +519,9 @@
   Footer Styling
 =====================*/
 
+
 .footer {
+  clear: both;
   background-color: #93040B;
   height: 12em;
 }

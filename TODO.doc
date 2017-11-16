@@ -16,12 +16,18 @@ TODO:
 
 -'People' page looks bad (formatting for subteam menu breaks with large or small window size)
 
--Add a footer
-
 -*Possibly* justify all text (opinionated)
 
 -Center the 'Contact Us' box at the bottom of the main page
 
+-Add footer to tumblr page
+
 DONE:
 
--Fix accordion animation desynch bug. For real this time.
+-Fix accordion animation desynch bug.
+
+-Add a footer
+
+-'People' page looks bad (formatting for subteam menu breaks with large or small window size)
+
+-Change Tyler's info on the 'Support Us' page
