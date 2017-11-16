@@ -1,7 +1,5 @@
 TODO:
 
--On 'resources', get rid of Vex and add Best. Maybe make them both alligned left?
-
 -The calendar looks ugly
 
 -Sponsors page. On the muse version, the 'Interested?' button had a bug--Ask Judah
@@ -31,3 +29,11 @@ DONE:
 -'People' page looks bad (formatting for subteam menu breaks with large or small window size)
 
 -Change Tyler's info on the 'Support Us' page
+
+-Replace filler BEST text on resources page.
+
+DONE:
+
+-Fix accordion animation desynch bug. For real this time.
+
+-On 'resources', get rid of Vex and add Best.
