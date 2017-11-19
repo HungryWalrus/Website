@@ -18,9 +18,15 @@ TODO:
 
 -Center the 'Contact Us' box at the bottom of the main page
 
--Add footer to tumblr page
-
 DONE:
+
+-Replace filler BEST text on resources page.
+
+-Fix accordion animation desynch bug. For real this time.
+
+-On 'resources', get rid of Vex and add Best.
+
+-Add footer to tumblr page
 
 -Fix accordion animation desynch bug.
 
@@ -29,7 +35,3 @@ DONE:
 -'People' page looks bad (formatting for subteam menu breaks with large or small window size)
 
 -Change Tyler's info on the 'Support Us' page
-
--Replace filler BEST text on resources page.
-
--On 'resources', get rid of Vex and add Best.
