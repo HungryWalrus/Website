@@ -523,7 +523,7 @@
 .footer {
   clear: both;
   background-color: #93040B;
-  height: 20em;
+  height: 23em;
 }
 
 #contact {
@@ -532,6 +532,10 @@
 }
 
 #shop {
+  margin: 1em auto 0 auto;
+}
+
+#sc {
   margin: 1em auto 0 auto;
 }
 
